@@ -1,0 +1,15 @@
+{
+    "name": "phpcraftdream/astro_de421",
+    "description": "de421 ephemerides database",
+    "type": "library",
+    "require": {
+        "php": "5.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "PHPCraftDream",
+            "email": "phpcraftdream@gmail.com"
+        }
+    ]
+}
